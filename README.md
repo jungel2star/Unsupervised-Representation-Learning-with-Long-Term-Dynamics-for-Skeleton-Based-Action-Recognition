@@ -10,6 +10,7 @@ If you find this paper helpful, please cite it as follows:
 @inproceedings{zheng2018unsupervised,       
 title={Unsupervised Representation Learning with Long-Term Dynamics for Skeleton Based Action Recognition},        
 author={Zheng, Nenggan and Wen, Jun and Liu, Risheng and and Long, Liangqu and Dai, Jianhua and Gong, Zhefeng },       
-booktitle={AAAI},        
+booktitle={AAAI},         
+pages={2644--2651},                
 year={2018}        
 }
